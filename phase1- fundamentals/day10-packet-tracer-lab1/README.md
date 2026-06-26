@@ -31,7 +31,7 @@ ping
 
 ## Files Included
 
-- **Day2.pkt** – Completed Cisco Packet Tracer lab
+- **Day10.pkt** – Completed Cisco Packet Tracer lab
 - **topology.png** – Screenshot of the completed network topology
 
 ## What I Learned

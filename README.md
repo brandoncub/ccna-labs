@@ -2,7 +2,7 @@
 my progression from zero to ccna certified
 
 
-# Day 2 – Basic Router Configuration
+# Day 10 – Basic Router Configuration
 
 ## Skills Practiced
 - Configured IPv4 addresses on router interfaces
@@ -13,5 +13,5 @@ my progression from zero to ccna certified
 - Verified connectivity with ping
 
 ## Files
-- Day2.pkt
+- Day10.pkt
 - topology.png
