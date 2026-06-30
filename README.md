@@ -2,9 +2,7 @@
 my progression from zero to ccna certified
 
 
-# Day 10 – Basic Router Configuration
-
-## Skills Practiced
+## Day 10 – Basic Router Configuration
 - Configured IPv4 addresses on router interfaces
 - Added interface descriptions
 - Enabled interfaces with `no shutdown`
