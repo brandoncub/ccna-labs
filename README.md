@@ -12,6 +12,11 @@ my progression from zero to ccna certified
 - Saved the running configuration
 - Verified connectivity with ping
 
-## Files
-- Day10.pkt
-- topology.png
+
+## Day 09 – Interface Configuration
+- Configured router and switch interfaces
+- Assigned IPv4 addresses
+- Manually set speed/duplex on inter-device links
+- Added interface descriptions
+- Disabled unused ports
+- Verified configurations using Cisco IOS
