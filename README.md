@@ -26,3 +26,13 @@ my progression from zero to ccna certified
 - Verified routing tables using `show ip route`
 - Established end-to-end connectivity between remote LANs
 - Practiced routing verification and troubleshooting
+
+## Day 15 - VLSM Network Design
+
+- Designed a Variable Length Subnet Masking (VLSM) addressing plan
+- Calculated network, broadcast, and usable host address ranges
+- Configured router interfaces with IPv4 addresses
+- Assigned IP addresses based on LAN host requirements
+- Configured IPv4 static routes
+- Verified connectivity using Cisco IOS commands
+- Practiced subnetting and VLSM troubleshooting
