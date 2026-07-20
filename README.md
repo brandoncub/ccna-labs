@@ -44,3 +44,11 @@ my progression from zero to ccna certified
     - Router gateway configuration
     - IP addressing 
     - Verified connectivity through ICMP Request/Reply testing.
+
+### Day 18 - VLAN Part 2
+
+- Configured VLAN trunk links between Cisco switches
+- Implemented router-on-a-stick using 802.1Q subinterfaces
+- Configured native VLANs and restricted allowed VLANs on trunks
+- Practiced inter-VLAN routing and gateway configuration
+- Verified end-to-end connectivity and trunk operation
