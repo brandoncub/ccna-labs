@@ -36,3 +36,11 @@ my progression from zero to ccna certified
 - Configured IPv4 static routes
 - Verified connectivity using Cisco IOS commands
 - Practiced subnetting and VLSM troubleshooting
+
+### Day 17 - VLAN Configuration
+- Configured multiple VLANs in Cisco Packet Tracer using /26 subnetting
+- Practiced VLAN creation
+    - Switch port assignment
+    - Router gateway configuration
+    - IP addressing 
+    - Verified connectivity through ICMP Request/Reply testing.
